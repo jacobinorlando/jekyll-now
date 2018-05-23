@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: My first blog post!
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I introduce you to my website, a collection of projects and memories created by myself. While this blog itself is the first project, it will be followed by many others. The first objective is a gallery of adventures in New Orleans with Jarrett and Arabel. From there, I will be working on templates for small business sites, to eventually sell in local Orlando. Other small personal projects will abound, I'm sure, and graphic design will be a heavy focus. Until I see you next time!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Jacob Whitney
